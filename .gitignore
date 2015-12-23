@@ -32,3 +32,4 @@ build/Release
 *.xcuserstate
 examples/swiper.xcodeproj/project.xcworkspace/
 examples/swiper.xcodeproj/xcuserdata
+config.bat
